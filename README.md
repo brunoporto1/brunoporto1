@@ -1,4 +1,4 @@
-## Oi eu sou Bruno Porto, acadêmico de sistemas de informação!
+##  Oi eu sou Bruno Porto, acadêmico de <i> sistemas de informação! </i>
 
 <div align="center">
   <a href="https://github.com/brunoporto1">
