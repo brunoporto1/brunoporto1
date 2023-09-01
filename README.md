@@ -15,8 +15,7 @@ Sou um entusiasta do desenvolvimento de dispositivos móveis, apaixonado por dar
   <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="left" alt="PowerApps" width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg](https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200929195935)" />
-</p>
+  
 
 <br />
 
