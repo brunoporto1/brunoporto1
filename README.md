@@ -1,22 +1,23 @@
 # 👾 Bruno Porto
 
-**`Desenvolvedor Mobile`**
+**`Analista de Dados em Formação`**
 
-Sou apaixonado por criar aplicativos que fazem a diferença na vida das pessoas. Adoro transformar ideias em realidade, dando vida a aplicativos que não só funcionam bem, mas também fazem os usuários se sentirem felizes e satisfeitos. Minha missão é usar minha criatividade e habilidades técnicas para desenvolver aplicativos que deixem uma impressão positiva, proporcionando aos usuários uma experiência fácil e natural.
+Estou começando minha jornada na área de análise de dados, onde busco transformar dados em informações valiosas que melhoram a tomada de decisões. Tenho interesse em explorar e analisar dados para descobrir insights que otimizem processos e estratégias. Estou em busca de oportunidades para trabalhar como Analista de Dados e continuar aprendendo nesse campo fascinante.
 
 ---
 
 ### 🧰 Linguagens e Ferramentas
 
 <p align="left">
-  <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="React Native" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="left" alt="Excel" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" />
+  <img align="left" alt="Power BI" width="30px" src="https://img.icons8.com/color/48/000000/power-bi.png" />
   <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="left" alt="Notion" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+</p>
   
-
 <br />
 
 #
@@ -33,8 +34,8 @@ Sou apaixonado por criar aplicativos que fazem a diferença na vida das pessoas.
 #
 
 <details>
-<summary><h3>👨‍💻 Jornada de Bruno</h3></summary>
-
-Ainda não tive a oportunidade de trabalhar como desenvolvedor mobile, porém, onde trabalho, atuo com PowerApps, embora não seja minha função principal. Lá, sou Analista de Sistemas e me apaixonei pelo desenvolvimento mobile ao programar em PowerApps. Já criei diversas aplicações utilizando PowerApps, como aplicativos para requisição de reembolso, agendamento de veículos, manutenções, e até um aplicativo para consultar informações de hardware de notebooks. Esse aplicativo permite escanear o código de barras de um notebook e exibe as informações cadastradas em um SharePoint. Essa experiência tem enriquecido muito minha lógica de programação e, a partir dessa descoberta, estou ansioso para me tornar um desenvolvedor mobile.
+<summary><h3>👨‍💻 Minha Jornada</h3></summary>
+  
+Ainda não tive a oportunidade de atuar como Analista de Dados formalmente, mas onde trabalho, tenho uma forte atuação com Power Platform e outras tecnologias. Como Analista de Sistemas, meu foco principal envolve gerenciar Firewalls, realizar manutenção de computadores e desenvolver soluções utilizando PowerApps. Durante esse período, descobri minha paixão pela análise de dados enquanto desenvolvia aplicações como sistemas de requisição de reembolso, agendamento de veículos e manutenção, além de um aplicativo para consulta de informações de hardware de notebooks. Esse último permite escanear códigos de barras e exibir dados diretamente no SharePoint. Essas experiências têm ampliado significativamente minha habilidade de programação e despertado meu interesse em me tornar um Analista de Dados.
 
 </details>
