@@ -9,8 +9,6 @@ Estou começando minha jornada na área de análise de dados, onde busco transfo
 ### 🧰 Linguagens e Ferramentas
 
 <p align="left">
-  <img align="left" alt="Power Apps" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Microsoft_PowerApps_logo.svg" />
-  <img align="left" alt="Power Apps" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-power-apps.png" />
   <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="left" alt="Excel" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" />
